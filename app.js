@@ -75,10 +75,3 @@ app.listen(process.env.PORT || 3000, function() {
   console.log("We are running at port 3000");
 });
 
-
-//api key
-// 118ad1bce75639840d0733e67abcc5a4-us6
-
-//audience id or list id
-//it would help mailchimp to identify the list we want to put our subscibers into
-// 959fb11e69
