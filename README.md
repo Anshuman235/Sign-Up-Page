@@ -1,4 +1,4 @@
-# Sign Up page
+# Sign Up page 📝
 
 This is basic look of a fully functional sign up page(Both frontend and Backend are being handled).
 
